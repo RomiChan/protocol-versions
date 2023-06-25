@@ -1,0 +1,16 @@
+{
+  "apk_id": "com.tencent.qq",
+  "app_id": 537128930,
+  "sub_app_id": 537128930,
+  "app_key": "",
+  "sort_version_name": "6.8.2.21241",
+  "build_time": 1647227495,
+  "apk_sign": "636f6d2e74656e63656e742e7171",
+  "sdk_version": "6.2.0.1023",
+  "sso_version": 7,
+  "misc_bitmap": 32764,
+  "main_sig_map": 1970400,
+  "sub_sig_map": 66560,
+  "dump_time": 1687660114,
+  "protocol_type": 3
+}
