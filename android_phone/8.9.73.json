@@ -1,0 +1,17 @@
+{
+    "apk_id": "com.tencent.mobileqq",
+    "app_id": 537171007,
+    "sub_app_id": 537171007,
+    "app_key": "0S200MNJT807V3GE",
+    "sort_version_name": "8.9.73.11790",
+    "build_time": 1690515318,
+    "apk_sign": "d4dd51c0a4a7a37f7fa9d791cd1c0377",
+    "sdk_version": "6.0.0.2553",
+    "sso_version": 20,
+    "misc_bitmap": 150470524,
+    "main_sig_map": 34869472,
+    "sub_sig_map": 66560,
+    "dump_time": 1690715354,
+    "qua": "V1_AND_SQ_8.9.73_4354_HDBM_T",
+    "protocol_type": 1
+}
